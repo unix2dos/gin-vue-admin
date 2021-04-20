@@ -47,7 +47,7 @@ jwt:
 local:
   path: uploads/file
 mysql:
-  path: 127.0.0.1:3307
+  path: 152.136.138.231:3306
   config: charset=utf8mb4&parseTime=True&loc=Local
   db-name: wuliu
   username: root
@@ -94,7 +94,7 @@ zap:
   prefix: '[GIN-VUE-ADMIN]'
   director: log
   link-name: latest_log
-  showLine: true
+  showLine: false
   encode-level: LowercaseColorLevelEncoder
   stacktrace-key: stacktrace
   log-in-console: true

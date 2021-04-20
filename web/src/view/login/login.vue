@@ -78,7 +78,7 @@
 <!--            ><img src="@/assets/video.png" class="link-icon"-->
 <!--          /></a>-->
 <!--        </div>-->
-        <div class="copyright">Copyright &copy; {{ curYear }} ❤️liuwei</div>
+        <div class="copyright">Copyright &copy; {{ curYear }} ️liuwei</div>
       </div>
     </div>
   </div>
