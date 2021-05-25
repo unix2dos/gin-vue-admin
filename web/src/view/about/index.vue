@@ -3,7 +3,7 @@
     <el-row :gutter="10">
       <el-col :span="12">
         <el-card>
-          <div slot="header">gin-vue-admin</div>
+          <div slot="header">物流管理系统</div>
           <div>
             <el-row>
               <el-col :span="8" :offset="8">
@@ -44,7 +44,7 @@
           </div>
         </el-card>
         <el-card style="margin-top: 20px">
-          <div slot="header">flipped-aurora团队</div>
+          <div slot="header">liuwei</div>
           <div>
             <el-row>
               <el-col :span="8" :offset="8">
